@@ -60,3 +60,4 @@
 	mod_weight = 0.7
 	mod_reach = 0.5
 	mod_handy = 1.0
+	icon_rounder = 20
