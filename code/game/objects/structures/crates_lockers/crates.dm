@@ -313,7 +313,8 @@
 	icon_state = "plasmacrate"
 	icon_opened = "plasmacrateopen"
 	icon_closed = "plasmacrate"
-	req_access = list(access_medical,access_research,access_engine)
+	req_access = null
+	req_one_access = list(access_medical, access_research, access_engine)
 
 /obj/structure/closet/crate/secure/gear
 	name = "gear crate"
